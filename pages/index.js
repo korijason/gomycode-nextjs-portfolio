@@ -18,7 +18,7 @@ export default function Home() {
     <div>
       <Navbar />
       <main>
-        <h1>Hi, I'm [Your Name]</h1>
+        <h1>Hi, I'm Jason Kori </h1>
         <p>Welcome to my portfolio! Explore my projects and get in touch.</p>
       </main>
       <Footer />
