@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <h1>Welcome to My Portfolio</h1>
-      <Image src="/profile.jpg" alt="Profile" width={150} height={150} />
+
     </div>
   );
 }
