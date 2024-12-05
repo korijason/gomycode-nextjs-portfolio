@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
       <footer>
-        <p>© [Your Name] - [Year]</p>
+        <p>© Jason Kori - 2024</p>
       </footer>
     );
   }
